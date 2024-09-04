@@ -1,4 +1,4 @@
-# Présentation de l'oeuvre [ ROW](https://wearetundra.org/row) de TUNDRA
+# [ROW](https://wearetundra.org/row) de TUNDRA
 
 ## [TUNDRA](https://wearetundra.org/about)
 ### Qui sont-ils
@@ -66,5 +66,17 @@ Ils utilisent pour le design visuel TouchDesigner.
 
 ### Processus
 Malheureusement, TUNDRA n'a pas documenté leur processus de création.
+
+## Comment
+
+### Composante centrale
+L'élément clé est la ligne de 10 ventilateurs projetant des images avec des LED, dans le cas nommé avec TUNDRA, une ligne de DATA flottant dans les airs.
+
+### Fonctionnement
+Ils expliquent que les informations Bits se transforment en symboles, qui ensuite peuvent êtres combinés en mots et rejoints en phrase informatiques. Le fait que les ventilateurs alignés un en arrière des autres, qu'ils tournent très rapidements et projetent des lumières et des images, DATA, donne un effet qui flotte dans les airs, donc un hologram.
+
+### Impact
+Ça a un impact sur l'idée et les informations que le public perçoit sur leur espace. Ce qui rend cette oeuvre multimédia...
+
 
 **NOTE utiliser des tables pour les photos**
