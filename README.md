@@ -5,6 +5,8 @@
 TUNDRA est une collective d'artistes multimédia composés de Alexandr Sinitsa, Klim Sukhanov, and Semyon Perevoshchikov.
 Leur but est de pousser la vision artistique et technologique à travers des projets audiovisuels.
 
+![Test](/assets/TUNDRA_team.jpg)
+
 ### Contributeurs:
 - 2020, 44 OUT | Shanghai, China
 - 2020, LINK festival | Oviedo, Spain
@@ -19,6 +21,10 @@ Leur but est de pousser la vision artistique et technologique à travers des pro
 
  ### Date
  ROW a été créé en 2020 sans date officielle. Une vidéo a été publié sur [Youtube](https://www.youtube.com/watch?v=BrcIvHqhdxY) le 14 mai 2020 ainsi que sur leur site principal.
+
+ [![Test video]          // Title
+()] // Thumbnail
+(https://www.youtube.com/watch?v=BrcIvHqhdxY)
  
  ### Présentations
  L'oeuvre n'a pas de dates précises pour chacune de leurs présentations.
