@@ -46,7 +46,7 @@ Il n'y a pas de dates précises mais ils ont reçus deux prix internationaux en 
 ### Cadre culturel
 L'oeuvre a été conçu princpalement pour des espaces intérieurs et renfermés, mais l'oeuvre a tout de même été présenté à l'exterieur. Sur leur page Instagram il est mentionné qu'une de leur présentation a été présenté dans une usine abandonné, donc l'accès est limité. Ils ont choisi des endroit urbain pour y représenter leur idée tel mentionné sur leur page [ROW About](https://wearetundra.org/row_about):
 
-*"The modern urban environment is permeated with electromagnetic waves that are imperceptible to the human eye. Rows of data floating in the air, transforming into symbols, words, and sentences, which, in turn, try to translate our speech, our thoughts, and feelings."*
+>"The modern urban environment is permeated with electromagnetic waves that are imperceptible to the human eye. Rows of data floating in the air, transforming into symbols, words, and sentences, which, in turn, try to translate our speech, our thoughts, and feelings."*
 
 ## Vue d'ensemble
 
@@ -76,7 +76,10 @@ L'élément clé est la ligne de 10 ventilateurs projetant des images avec des L
 Ils expliquent que les informations Bits se transforment en symboles, qui ensuite peuvent êtres combinés en mots et rejoints en phrase informatiques. Le fait que les ventilateurs alignés un en arrière des autres, qu'ils tournent très rapidements et projetent des lumières et des images, DATA, donne un effet qui flotte dans les airs, donc un hologram.
 
 ### Impact
-Ça a un impact sur l'idée et les informations que le public perçoit sur leur espace. Ce qui rend cette oeuvre multimédia...
+L'oeuvre a un impact sur l'idée et les informations que le public perçoit sur leur espace. Ce qui distingue l'oeuvre est le fait qu'elle utilise des fans et a réussis à faire un effet d'holograme avec celles-ci. L'oeuvre mélange ambiance sonore, lumières, DATA et le tout afin de communiquer une idée aux allures futuristiques.
 
+## Appréciation
+
+J'ai choisi cette oeuvre puisque je la trouve très différente des autres, dans le sens que, même s'il ne serait pas la première fois que quelqu'un crée un effet Hologram ou un effet à l'aide de ventilateurs, je trouve que la composition et le chemin qu'a prit leur projet est remarquable et que l'on peut même pousser encore plus loin l'idée qu'ils transmettent.
 
 **NOTE utiliser des tables pour les photos**
