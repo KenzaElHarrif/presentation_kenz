@@ -56,9 +56,6 @@ L'oeuvre a été conçue principalement pour des espaces intérieurs et renferm�
 
 >"The modern urban environment is permeated with electromagnetic waves that are imperceptible to the human eye. Rows of data floating in the air, transforming into symbols, words, and sentences, which, in turn, try to translate our speech, our thoughts, and feelings."*
 
-| Intérieur   | Extérieur |
-| -------- | ------- |
-| ![ROW interieur](/assets/ROW_TUNDRA_interieur_salle_presentation_03.png) | ![ROW exterieur](/assets/ROW_TUNDRA_exterieur_nuit.png)    |
 
 
 ## Vue d'ensemble
@@ -79,7 +76,12 @@ Ils utilisent des ventilateurs à LED, un systeme de son, et une barrière prote
 Ils ont aussi mentionné les possibles moyens de monter l'oeuvre de manière verticale, plafond, extérieur ou même avec un plancher miroir. Le tout est mentionné sur leur page [ROW About](https://wearetundra.org/row_about).
 Ils utilisent pour le design visuel TouchDesigner.
 
-![ROW exterieur](/assets/ROW_TUNDRA_esquisse.png)
+![ROW esquisse](/assets/ROW_TUNDRA_esquisse.png)
+
+
+| Intérieur   | Extérieur |
+| -------- | ------- |
+| ![ROW interieur](/assets/ROW_TUNDRA_interieur_salle_presentation_03.png) | ![ROW exterieur](/assets/ROW_TUNDRA_exterieur_nuit.png)    |
 
 | Miroir  | Vertical | Plafond |
 | -------- | ------- | ------- |
