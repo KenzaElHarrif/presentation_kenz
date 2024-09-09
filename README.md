@@ -63,8 +63,6 @@ L'oeuvre a été conçue principalement pour des espaces intérieurs et renferm�
 ### Description
 ROW est une installation multimédia. L'oeuvre est composée d'une ligne de ventilateurs équipés de LED, auxquels ils projettent de la lumière et des images pour former une sculpture holographique. Le tout est accompagné d'un arrangement musical et ambiant. L'oeuvre est souvent présentée dans un espace intérieur sombre afin de préserver les qualités sonores et vidéos, mais il est possible de la présenter à l'extérieur.
 
-https://github.com/user-attachments/assets/ec19d0b3-00f6-428f-9d4f-a54819992467
-
 ### Objectif
 L'installation a pour objectif de représenter les idées de la perception de l'information, du nouveau langage et du dialogue spatial.
 
