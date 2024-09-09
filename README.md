@@ -108,3 +108,12 @@ L'oeuvre a un impact sur l'idée et les informations que le public perçoit sur 
 ## Appréciation
 
 J'ai choisi cette oeuvre puisque je la trouve très différente des autres, dans le sens que même s'il ne serait pas la première fois que quelqu'un crée un effet hologramme ou un effet à l'aide de ventilateurs, je trouve que la composition et le chemin qu'a pris leur projet est remarquable et que l'on peut même pousser encore plus loin l'idée qu'ils essaient de transmettre.
+
+## Source
+
+- Page de ROW de TUNDRA: https://wearetundra.org/row
+- Page d'explications de l'oeuvre: https://wearetundra.org/row_about
+- Vidéo Youtube de ROW : https://www.youtube.com/watch?v=BrcIvHqhdxY
+- Article "Report on the 24th Japan Media Arts Festival Exhibition of Award-winning Works": https://mediag.bunka.go.jp/article/article-20256/
+- Site de Audio Visual City: https://www.audiovisualcity.org/2020/08/19/citic-press-lightening-selection/
+- Page Instagram de TUNDRA: https://www.instagram.com/wearetundra/
