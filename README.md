@@ -69,7 +69,7 @@ L'installation a pour objectif de représenter les idées de la perception de l'
 ### Public
 Leur public cible n'est pas mentionné.
 
-### Techinque
+### Technique
 Ils utilisent des ventilateurs à LED, un systeme de son, et une barrière protective pour protéger les spectateurs des ventilateurs.
 Ils ont aussi mentionné les possibles moyens de monter l'oeuvre de manière verticale, plafond, extérieur ou même avec un plancher miroir. Le tout est mentionné sur leur page [ROW About](https://wearetundra.org/row_about).
 Ils utilisent pour le design visuel TouchDesigner.
