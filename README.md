@@ -111,8 +111,10 @@ J'ai choisi cette oeuvre puisque je la trouve très différente des autres, dans
 
 ## Source
 
+- Site de TUNDRA: https://wearetundra.org/
 - Page de ROW de TUNDRA: https://wearetundra.org/row
 - Page d'explications de l'oeuvre: https://wearetundra.org/row_about
+- Page à propos: https://wearetundra.org/about
 - Vidéo Youtube de ROW : https://www.youtube.com/watch?v=BrcIvHqhdxY
 - Article "Report on the 24th Japan Media Arts Festival Exhibition of Award-winning Works": https://mediag.bunka.go.jp/article/article-20256/
 - Site de Audio Visual City: https://www.audiovisualcity.org/2020/08/19/citic-press-lightening-selection/
